@@ -1,0 +1,20 @@
+{
+  "name": "2ndprojectbackend",
+  "version": "1.0.0",
+  "description": " a backed in required skill in project express,mongodb,nodejs,any devadependecy package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "happy",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.4"
+  }
+}
